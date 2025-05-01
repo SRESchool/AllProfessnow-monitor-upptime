@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 695
+      "2025-05-01": 707
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/desinri.com.ico",
     "slug": "desinri",
     "status": "down",
-    "uptime": "1.27%",
-    "uptimeDay": "1.27%",
-    "uptimeWeek": "1.27%",
-    "uptimeMonth": "1.27%",
-    "uptimeYear": "1.27%",
+    "uptime": "1.25%",
+    "uptimeDay": "1.25%",
+    "uptimeWeek": "1.25%",
+    "uptimeMonth": "1.25%",
+    "uptimeYear": "1.25%",
     "time": 1582,
     "timeDay": 1582,
     "timeWeek": 1582,
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-01": 686
+      "2025-05-01": 698
     }
   }
 ]
