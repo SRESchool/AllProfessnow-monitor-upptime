@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1875,
-    "timeDay": 1875,
-    "timeWeek": 1875,
-    "timeMonth": 1875,
-    "timeYear": 1875,
+    "time": 1864,
+    "timeDay": 1864,
+    "timeWeek": 1864,
+    "timeMonth": 1864,
+    "timeYear": 1864,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3387,
-    "timeDay": 3387,
-    "timeWeek": 3387,
-    "timeMonth": 3387,
-    "timeYear": 3387,
+    "time": 3374,
+    "timeDay": 3374,
+    "timeWeek": 3374,
+    "timeMonth": 3374,
+    "timeYear": 3374,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 988,
-    "timeDay": 988,
-    "timeWeek": 988,
-    "timeMonth": 988,
-    "timeYear": 988,
+    "time": 990,
+    "timeDay": 990,
+    "timeWeek": 990,
+    "timeMonth": 990,
+    "timeYear": 990,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2044,
-    "timeDay": 2044,
-    "timeWeek": 2044,
-    "timeMonth": 2044,
-    "timeYear": 2044,
+    "time": 2042,
+    "timeDay": 2042,
+    "timeWeek": 2042,
+    "timeMonth": 2042,
+    "timeYear": 2042,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dronesnow.in.ico",
     "slug": "dronesnow",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 303
+      "2025-05-01": 313
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/desinri.com.ico",
     "slug": "desinri",
     "status": "down",
-    "uptime": "2.92%",
-    "uptimeDay": "2.92%",
-    "uptimeWeek": "2.92%",
-    "uptimeMonth": "2.92%",
-    "uptimeYear": "2.92%",
+    "uptime": "2.83%",
+    "uptimeDay": "2.83%",
+    "uptimeWeek": "2.83%",
+    "uptimeMonth": "2.83%",
+    "uptimeYear": "2.83%",
     "time": 1582,
     "timeDay": 1582,
     "timeWeek": 1582,
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-01": 294
+      "2025-05-01": 304
     }
   }
 ]
