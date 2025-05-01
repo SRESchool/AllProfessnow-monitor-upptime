@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3273,
-    "timeDay": 3273,
-    "timeWeek": 3273,
-    "timeMonth": 3273,
-    "timeYear": 3273,
+    "time": 3260,
+    "timeDay": 3260,
+    "timeWeek": 3260,
+    "timeMonth": 3260,
+    "timeYear": 3260,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 989,
-    "timeDay": 989,
-    "timeWeek": 989,
-    "timeMonth": 989,
-    "timeYear": 989,
+    "time": 990,
+    "timeDay": 990,
+    "timeWeek": 990,
+    "timeMonth": 990,
+    "timeYear": 990,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2019,
-    "timeDay": 2019,
-    "timeWeek": 2019,
-    "timeMonth": 2019,
-    "timeYear": 2019,
+    "time": 2038,
+    "timeDay": 2038,
+    "timeWeek": 2038,
+    "timeMonth": 2038,
+    "timeYear": 2038,
     "dailyMinutesDown": {}
   },
   {
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 548
+      "2025-05-01": 567
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/desinri.com.ico",
     "slug": "desinri",
     "status": "down",
-    "uptime": "1.62%",
-    "uptimeDay": "1.62%",
-    "uptimeWeek": "1.62%",
-    "uptimeMonth": "1.62%",
-    "uptimeYear": "1.62%",
+    "uptime": "1.56%",
+    "uptimeDay": "1.56%",
+    "uptimeWeek": "1.56%",
+    "uptimeMonth": "1.56%",
+    "uptimeYear": "1.56%",
     "time": 1582,
     "timeDay": 1582,
     "timeWeek": 1582,
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-01": 539
+      "2025-05-01": 558
     }
   }
 ]
