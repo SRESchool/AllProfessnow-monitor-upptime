@@ -47,6 +47,9 @@ sites:
     url: https://desinri.com
     slug: desinri
     checkSSL: true
+    port: 80
+    check: "tcp-ping"
+    ipv6: true
 
 workflowSchedule:
   graphs: "*/5 * * * *" # Every day at midnight
