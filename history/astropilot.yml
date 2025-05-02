@@ -1,7 +1,7 @@
 url: https://astropilot.co
-status: up
-code: 200
-responseTime: 5534
-lastUpdated: 2025-05-02T11:39:15.955Z
+status: down
+code: 500
+responseTime: 326
+lastUpdated: 2025-05-02T11:49:25.666Z
 startTime: 2025-05-01T09:47:20.510Z
 generator: Upptime <https://github.com/upptime/upptime>
