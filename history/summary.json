@@ -22,19 +22,19 @@
     "url": "https://ireviewed.in",
     "icon": "https://icons.duckduckgo.com/ip3/ireviewed.in.ico",
     "slug": "ireviewed",
-    "status": "down",
-    "uptime": "98.31%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.31%",
-    "time": 3460,
-    "timeDay": 3459,
-    "timeWeek": 3460,
-    "timeMonth": 3460,
-    "timeYear": 3460,
+    "status": "up",
+    "uptime": "96.72%",
+    "uptimeDay": "96.32%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "96.72%",
+    "time": 3451,
+    "timeDay": 3448,
+    "timeWeek": 3451,
+    "timeMonth": 3451,
+    "timeYear": 3451,
     "dailyMinutesDown": {
-      "2025-05-02": 27
+      "2025-05-02": 53
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://wakilsahab.in",
     "icon": "https://icons.duckduckgo.com/ip3/wakilsahab.in.ico",
     "slug": "wakilsahab",
-    "status": "down",
-    "uptime": "98.31%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.31%",
-    "time": 981,
-    "timeDay": 979,
-    "timeWeek": 981,
-    "timeMonth": 981,
-    "timeYear": 981,
+    "status": "up",
+    "uptime": "96.72%",
+    "uptimeDay": "96.32%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "96.72%",
+    "time": 978,
+    "timeDay": 976,
+    "timeWeek": 978,
+    "timeMonth": 978,
+    "timeYear": 978,
     "dailyMinutesDown": {
-      "2025-05-02": 27
+      "2025-05-02": 53
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://astropilot.co",
     "icon": "https://icons.duckduckgo.com/ip3/astropilot.co.ico",
     "slug": "astropilot",
-    "status": "down",
-    "uptime": "98.31%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.31%",
-    "time": 2298,
-    "timeDay": 2326,
-    "timeWeek": 2298,
-    "timeMonth": 2298,
-    "timeYear": 2298,
+    "status": "up",
+    "uptime": "96.72%",
+    "uptimeDay": "96.32%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "96.72%",
+    "time": 2313,
+    "timeDay": 2343,
+    "timeWeek": 2313,
+    "timeMonth": 2313,
+    "timeYear": 2313,
     "dailyMinutesDown": {
-      "2025-05-02": 27
+      "2025-05-02": 53
     }
   },
   {
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 736,
+      "2025-05-02": 763,
       "2025-05-01": 853
     }
   },
@@ -104,18 +104,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/desinri.com.ico",
     "slug": "desinri",
     "status": "down",
-    "uptime": "0.56%",
+    "uptime": "0.55%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.56%",
-    "uptimeMonth": "0.56%",
-    "uptimeYear": "0.56%",
+    "uptimeWeek": "0.55%",
+    "uptimeMonth": "0.55%",
+    "uptimeYear": "0.55%",
     "time": 1582,
     "timeDay": 0,
     "timeWeek": 1582,
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-02": 736,
+      "2025-05-02": 763,
       "2025-05-01": 844
     }
   }
