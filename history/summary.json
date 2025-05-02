@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3347,
-    "timeDay": 3347,
-    "timeWeek": 3347,
-    "timeMonth": 3347,
-    "timeYear": 3347,
+    "time": 3351,
+    "timeDay": 3364,
+    "timeWeek": 3351,
+    "timeMonth": 3351,
+    "timeYear": 3351,
     "dailyMinutesDown": {}
   },
   {
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 994,
-    "timeDay": 994,
+    "timeDay": 1000,
     "timeWeek": 994,
     "timeMonth": 994,
     "timeYear": 994,
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2200,
-    "timeDay": 2200,
-    "timeWeek": 2200,
-    "timeMonth": 2200,
-    "timeYear": 2200,
+    "time": 2213,
+    "timeDay": 2222,
+    "timeWeek": 2213,
+    "timeMonth": 2213,
+    "timeYear": 2213,
     "dailyMinutesDown": {}
   },
   {
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 580,
+      "2025-05-02": 589,
       "2025-05-01": 853
     }
   },
@@ -98,18 +98,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/desinri.com.ico",
     "slug": "desinri",
     "status": "down",
-    "uptime": "0.62%",
-    "uptimeDay": "0.62%",
-    "uptimeWeek": "0.62%",
-    "uptimeMonth": "0.62%",
-    "uptimeYear": "0.62%",
+    "uptime": "0.61%",
+    "uptimeDay": "0.48%",
+    "uptimeWeek": "0.61%",
+    "uptimeMonth": "0.61%",
+    "uptimeYear": "0.61%",
     "time": 1582,
-    "timeDay": 1582,
+    "timeDay": 0,
     "timeWeek": 1582,
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-02": 580,
+      "2025-05-02": 589,
       "2025-05-01": 844
     }
   }
