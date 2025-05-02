@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1848,
-    "timeDay": 1846,
+    "timeDay": 1848,
     "timeWeek": 1848,
     "timeMonth": 1848,
     "timeYear": 1848,
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ireviewed.in.ico",
     "slug": "ireviewed",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 3460,
-    "timeDay": 3459,
+    "timeDay": 3468,
     "timeWeek": 3460,
     "timeMonth": 3460,
     "timeYear": 3460,
     "dailyMinutesDown": {
-      "2025-05-02": 0
+      "2025-05-02": 2
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakilsahab.in.ico",
     "slug": "wakilsahab",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 986,
     "timeDay": 1001,
     "timeWeek": 986,
     "timeMonth": 986,
     "timeYear": 986,
     "dailyMinutesDown": {
-      "2025-05-02": 0
+      "2025-05-02": 2
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://astropilot.co",
     "icon": "https://icons.duckduckgo.com/ip3/astropilot.co.ico",
     "slug": "astropilot",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2350,
-    "timeDay": 2407,
-    "timeWeek": 2350,
-    "timeMonth": 2350,
-    "timeYear": 2350,
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 2323,
+    "timeDay": 2382,
+    "timeWeek": 2323,
+    "timeMonth": 2323,
+    "timeYear": 2323,
     "dailyMinutesDown": {
-      "2025-05-02": 0
+      "2025-05-02": 2
     }
   },
   {
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 710,
+      "2025-05-02": 711,
       "2025-05-01": 853
     }
   },
@@ -115,7 +115,7 @@
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-02": 710,
+      "2025-05-02": 711,
       "2025-05-01": 844
     }
   }
