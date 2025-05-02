@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1851,
-    "timeDay": 1847,
-    "timeWeek": 1851,
-    "timeMonth": 1851,
-    "timeYear": 1851,
+    "time": 1850,
+    "timeDay": 1846,
+    "timeWeek": 1850,
+    "timeMonth": 1850,
+    "timeYear": 1850,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3454,
-    "timeDay": 3438,
-    "timeWeek": 3454,
-    "timeMonth": 3454,
-    "timeYear": 3454,
+    "time": 3458,
+    "timeDay": 3446,
+    "timeWeek": 3458,
+    "timeMonth": 3458,
+    "timeYear": 3458,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 989,
-    "timeDay": 1005,
-    "timeWeek": 989,
-    "timeMonth": 989,
-    "timeYear": 989,
+    "time": 988,
+    "timeDay": 1003,
+    "timeWeek": 988,
+    "timeMonth": 988,
+    "timeYear": 988,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2296,
-    "timeDay": 2333,
-    "timeWeek": 2296,
-    "timeMonth": 2296,
-    "timeYear": 2296,
+    "time": 2307,
+    "timeDay": 2352,
+    "timeWeek": 2307,
+    "timeMonth": 2307,
+    "timeYear": 2307,
     "dailyMinutesDown": {}
   },
   {
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 674,
+      "2025-05-02": 688,
       "2025-05-01": 853
     }
   },
@@ -98,18 +98,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/desinri.com.ico",
     "slug": "desinri",
     "status": "down",
-    "uptime": "0.58%",
+    "uptime": "0.57%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.58%",
-    "uptimeMonth": "0.58%",
-    "uptimeYear": "0.58%",
+    "uptimeWeek": "0.57%",
+    "uptimeMonth": "0.57%",
+    "uptimeYear": "0.57%",
     "time": 1582,
     "timeDay": 0,
     "timeWeek": 1582,
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-02": 674,
+      "2025-05-02": 688,
       "2025-05-01": 844
     }
   }
