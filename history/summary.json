@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1847,
-    "timeDay": 1845,
-    "timeWeek": 1847,
-    "timeMonth": 1847,
-    "timeYear": 1847,
+    "time": 1848,
+    "timeDay": 1846,
+    "timeWeek": 1848,
+    "timeMonth": 1848,
+    "timeYear": 1848,
     "dailyMinutesDown": {}
   },
   {
@@ -22,36 +22,40 @@
     "url": "https://ireviewed.in",
     "icon": "https://icons.duckduckgo.com/ip3/ireviewed.in.ico",
     "slug": "ireviewed",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3499,
-    "timeDay": 3503,
-    "timeWeek": 3499,
-    "timeMonth": 3499,
-    "timeYear": 3499,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 3460,
+    "timeDay": 3459,
+    "timeWeek": 3460,
+    "timeMonth": 3460,
+    "timeYear": 3460,
+    "dailyMinutesDown": {
+      "2025-05-02": 0
+    }
   },
   {
     "name": "WakilSahab",
     "url": "https://wakilsahab.in",
     "icon": "https://icons.duckduckgo.com/ip3/wakilsahab.in.ico",
     "slug": "wakilsahab",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 991,
-    "timeDay": 1007,
-    "timeWeek": 991,
-    "timeMonth": 991,
-    "timeYear": 991,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 986,
+    "timeDay": 1001,
+    "timeWeek": 986,
+    "timeMonth": 986,
+    "timeYear": 986,
+    "dailyMinutesDown": {
+      "2025-05-02": 0
+    }
   },
   {
     "name": "AstroPilot",
@@ -59,17 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/astropilot.co.ico",
     "slug": "astropilot",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2350,
     "timeDay": 2407,
     "timeWeek": 2350,
     "timeMonth": 2350,
     "timeYear": 2350,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-02": 0
+    }
   },
   {
     "name": "DronesNow",
@@ -88,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 701,
+      "2025-05-02": 710,
       "2025-05-01": 853
     }
   },
@@ -109,7 +115,7 @@
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-02": 701,
+      "2025-05-02": 710,
       "2025-05-01": 844
     }
   }
