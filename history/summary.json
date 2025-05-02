@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1850,
-    "timeDay": 1848,
+    "timeDay": 1849,
     "timeWeek": 1850,
     "timeMonth": 1850,
     "timeYear": 1850,
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3368,
-    "timeDay": 3387,
-    "timeWeek": 3368,
-    "timeMonth": 3368,
-    "timeYear": 3368,
+    "time": 3435,
+    "timeDay": 3404,
+    "timeWeek": 3435,
+    "timeMonth": 3435,
+    "timeYear": 3435,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 992,
-    "timeDay": 1012,
-    "timeWeek": 992,
-    "timeMonth": 992,
-    "timeYear": 992,
+    "time": 997,
+    "timeDay": 1010,
+    "timeWeek": 997,
+    "timeMonth": 997,
+    "timeYear": 997,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2258,
-    "timeDay": 2294,
-    "timeWeek": 2258,
-    "timeMonth": 2258,
-    "timeYear": 2258,
+    "time": 2287,
+    "timeDay": 2308,
+    "timeWeek": 2287,
+    "timeMonth": 2287,
+    "timeYear": 2287,
     "dailyMinutesDown": {}
   },
   {
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 628,
+      "2025-05-02": 645,
       "2025-05-01": 853
     }
   },
@@ -98,18 +98,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/desinri.com.ico",
     "slug": "desinri",
     "status": "down",
-    "uptime": "0.60%",
+    "uptime": "0.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.60%",
-    "uptimeMonth": "0.60%",
-    "uptimeYear": "0.60%",
+    "uptimeWeek": "0.59%",
+    "uptimeMonth": "0.59%",
+    "uptimeYear": "0.59%",
     "time": 1582,
     "timeDay": 0,
     "timeWeek": 1582,
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-02": 628,
+      "2025-05-02": 645,
       "2025-05-01": 844
     }
   }
