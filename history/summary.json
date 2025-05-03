@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1841,
-    "timeDay": 1832,
+    "timeDay": 1833,
     "timeWeek": 1841,
     "timeMonth": 1841,
     "timeYear": 1841,
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ireviewed.in.ico",
     "slug": "ireviewed",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "98.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "98.43%",
-    "time": 3171,
-    "timeDay": 2951,
-    "timeWeek": 3171,
-    "timeMonth": 3171,
-    "timeYear": 3171,
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "98.44%",
+    "time": 3168,
+    "timeDay": 2949,
+    "timeWeek": 3168,
+    "timeMonth": 3168,
+    "timeYear": 3168,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakilsahab.in.ico",
     "slug": "wakilsahab",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "98.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "98.43%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "98.44%",
     "time": 973,
     "timeDay": 970,
     "timeWeek": 973,
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/astropilot.co.ico",
     "slug": "astropilot",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "98.42%",
-    "time": 2072,
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "98.43%",
+    "time": 2071,
     "timeDay": 1790,
-    "timeWeek": 2072,
-    "timeMonth": 2072,
-    "timeYear": 2072,
+    "timeWeek": 2071,
+    "timeMonth": 2071,
+    "timeYear": 2071,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 1073,
+      "2025-05-03": 1096,
       "2025-05-02": 1440,
       "2025-05-01": 853
     }
@@ -116,7 +116,7 @@
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-03": 1073,
+      "2025-05-03": 1096,
       "2025-05-02": 1440,
       "2025-05-01": 844
     }
