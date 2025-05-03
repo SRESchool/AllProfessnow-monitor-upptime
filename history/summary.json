@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1847,
-    "timeDay": 1845,
-    "timeWeek": 1847,
-    "timeMonth": 1847,
-    "timeYear": 1847,
+    "time": 1845,
+    "timeDay": 1842,
+    "timeWeek": 1845,
+    "timeMonth": 1845,
+    "timeYear": 1845,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ireviewed.in.ico",
     "slug": "ireviewed",
     "status": "up",
-    "uptime": "98.37%",
+    "uptime": "98.38%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "98.37%",
-    "time": 3174,
-    "timeDay": 2926,
-    "timeWeek": 3174,
-    "timeMonth": 3174,
-    "timeYear": 3174,
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
+    "time": 3172,
+    "timeDay": 2932,
+    "timeWeek": 3172,
+    "timeMonth": 3172,
+    "timeYear": 3172,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakilsahab.in.ico",
     "slug": "wakilsahab",
     "status": "up",
-    "uptime": "98.37%",
+    "uptime": "98.38%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "98.37%",
-    "time": 970,
-    "timeDay": 965,
-    "timeWeek": 970,
-    "timeMonth": 970,
-    "timeYear": 970,
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
+    "time": 972,
+    "timeDay": 975,
+    "timeWeek": 972,
+    "timeMonth": 972,
+    "timeYear": 972,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/astropilot.co.ico",
     "slug": "astropilot",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
-    "time": 2087,
-    "timeDay": 1803,
-    "timeWeek": 2087,
-    "timeMonth": 2087,
-    "timeYear": 2087,
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.37%",
+    "time": 2086,
+    "timeDay": 1810,
+    "timeWeek": 2086,
+    "timeMonth": 2086,
+    "timeYear": 2086,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 951,
+      "2025-05-03": 969,
       "2025-05-02": 1440,
       "2025-05-01": 853
     }
@@ -116,7 +116,7 @@
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-03": 951,
+      "2025-05-03": 969,
       "2025-05-02": 1440,
       "2025-05-01": 844
     }
