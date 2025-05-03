@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1843,
-    "timeDay": 1838,
-    "timeWeek": 1843,
-    "timeMonth": 1843,
-    "timeYear": 1843,
+    "time": 1842,
+    "timeDay": 1836,
+    "timeWeek": 1842,
+    "timeMonth": 1842,
+    "timeYear": 1842,
     "dailyMinutesDown": {}
   },
   {
@@ -29,7 +29,7 @@
     "uptimeMonth": "98.42%",
     "uptimeYear": "98.42%",
     "time": 3173,
-    "timeDay": 2954,
+    "timeDay": 2956,
     "timeWeek": 3173,
     "timeMonth": 3173,
     "timeYear": 3173,
@@ -49,7 +49,7 @@
     "uptimeMonth": "98.42%",
     "uptimeYear": "98.42%",
     "time": 973,
-    "timeDay": 970,
+    "timeDay": 971,
     "timeWeek": 973,
     "timeMonth": 973,
     "timeYear": 973,
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/astropilot.co.ico",
     "slug": "astropilot",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "98.41%",
-    "uptimeYear": "98.41%",
-    "time": 2076,
-    "timeDay": 1806,
-    "timeWeek": 2076,
-    "timeMonth": 2076,
-    "timeYear": 2076,
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "98.42%",
+    "time": 2074,
+    "timeDay": 1805,
+    "timeWeek": 2074,
+    "timeMonth": 2074,
+    "timeYear": 2074,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 1053,
+      "2025-05-03": 1063,
       "2025-05-02": 1440,
       "2025-05-01": 853
     }
@@ -116,7 +116,7 @@
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-03": 1053,
+      "2025-05-03": 1063,
       "2025-05-02": 1440,
       "2025-05-01": 844
     }
