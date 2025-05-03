@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1851,
-    "timeDay": 1850,
+    "timeDay": 1849,
     "timeWeek": 1851,
     "timeMonth": 1851,
     "timeYear": 1851,
@@ -28,11 +28,11 @@
     "uptimeWeek": "98.16%",
     "uptimeMonth": "98.16%",
     "uptimeYear": "98.16%",
-    "time": 3218,
-    "timeDay": 3098,
-    "timeWeek": 3218,
-    "timeMonth": 3218,
-    "timeYear": 3218,
+    "time": 3217,
+    "timeDay": 3091,
+    "timeWeek": 3217,
+    "timeMonth": 3217,
+    "timeYear": 3217,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "98.16%",
     "uptimeMonth": "98.16%",
     "uptimeYear": "98.16%",
-    "time": 976,
-    "timeDay": 959,
-    "timeWeek": 976,
-    "timeMonth": 976,
-    "timeYear": 976,
+    "time": 977,
+    "timeDay": 961,
+    "timeWeek": 977,
+    "timeMonth": 977,
+    "timeYear": 977,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/astropilot.co.ico",
     "slug": "astropilot",
     "status": "up",
-    "uptime": "98.15%",
+    "uptime": "98.16%",
     "uptimeDay": "96.32%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.15%",
-    "time": 2140,
-    "timeDay": 2085,
-    "timeWeek": 2140,
-    "timeMonth": 2140,
-    "timeYear": 2140,
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "98.16%",
+    "time": 2141,
+    "timeDay": 2074,
+    "timeWeek": 2141,
+    "timeMonth": 2141,
+    "timeYear": 2141,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 582,
+      "2025-05-03": 592,
       "2025-05-02": 1440,
       "2025-05-01": 853
     }
@@ -116,7 +116,7 @@
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-03": 582,
+      "2025-05-03": 592,
       "2025-05-02": 1440,
       "2025-05-01": 844
     }
