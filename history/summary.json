@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1843,
-    "timeDay": 1844,
+    "timeDay": 1846,
     "timeWeek": 1843,
     "timeMonth": 1843,
     "timeYear": 1843,
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ireviewed.in.ico",
     "slug": "ireviewed",
     "status": "up",
-    "uptime": "98.54%",
+    "uptime": "98.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "98.54%",
-    "time": 3136,
-    "timeDay": 2927,
-    "timeWeek": 3136,
-    "timeMonth": 3136,
-    "timeYear": 3136,
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
+    "time": 3132,
+    "timeDay": 2920,
+    "timeWeek": 3132,
+    "timeMonth": 3132,
+    "timeYear": 3132,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakilsahab.in.ico",
     "slug": "wakilsahab",
     "status": "up",
-    "uptime": "98.54%",
+    "uptime": "98.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "98.54%",
-    "time": 963,
-    "timeDay": 940,
-    "timeWeek": 963,
-    "timeMonth": 963,
-    "timeYear": 963,
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
+    "time": 961,
+    "timeDay": 935,
+    "timeWeek": 961,
+    "timeMonth": 961,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "98.54%",
     "uptimeMonth": "98.54%",
     "uptimeYear": "98.54%",
-    "time": 2040,
-    "timeDay": 1764,
-    "timeWeek": 2040,
-    "timeMonth": 2040,
-    "timeYear": 2040,
+    "time": 2037,
+    "timeDay": 1757,
+    "timeWeek": 2037,
+    "timeMonth": 2037,
+    "timeYear": 2037,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 1331,
+      "2025-05-03": 1352,
       "2025-05-02": 1440,
       "2025-05-01": 853
     }
@@ -116,7 +116,7 @@
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-03": 1331,
+      "2025-05-03": 1352,
       "2025-05-02": 1440,
       "2025-05-01": 844
     }
