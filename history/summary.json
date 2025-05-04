@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1839,
-    "timeDay": 1826,
+    "timeDay": 1825,
     "timeWeek": 1839,
     "timeMonth": 1839,
     "timeYear": 1839,
@@ -28,11 +28,11 @@
     "uptimeWeek": "98.68%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "98.68%",
-    "time": 3112,
-    "timeDay": 2880,
-    "timeWeek": 3112,
-    "timeMonth": 3112,
-    "timeYear": 3112,
+    "time": 3108,
+    "timeDay": 2875,
+    "timeWeek": 3108,
+    "timeMonth": 3108,
+    "timeYear": 3108,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "98.68%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "98.68%",
-    "time": 954,
-    "timeDay": 910,
-    "timeWeek": 954,
-    "timeMonth": 954,
-    "timeYear": 954,
+    "time": 952,
+    "timeDay": 909,
+    "timeWeek": 952,
+    "timeMonth": 952,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/astropilot.co.ico",
     "slug": "astropilot",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.67%",
-    "time": 2016,
-    "timeDay": 1730,
-    "timeWeek": 2016,
-    "timeMonth": 2016,
-    "timeYear": 2016,
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
+    "time": 2013,
+    "timeDay": 1724,
+    "timeWeek": 2013,
+    "timeMonth": 2013,
+    "timeYear": 2013,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-04": 271,
+      "2025-05-04": 286,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 853
@@ -117,7 +117,7 @@
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-04": 271,
+      "2025-05-04": 286,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 844
