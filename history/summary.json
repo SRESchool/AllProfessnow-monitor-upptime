@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1833,
-    "timeDay": 1800,
-    "timeWeek": 1833,
-    "timeMonth": 1833,
-    "timeYear": 1833,
+    "time": 1834,
+    "timeDay": 1802,
+    "timeWeek": 1834,
+    "timeMonth": 1834,
+    "timeYear": 1834,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "98.77%",
     "uptimeMonth": "98.77%",
     "uptimeYear": "98.77%",
-    "time": 3087,
-    "timeDay": 2845,
-    "timeWeek": 3087,
-    "timeMonth": 3087,
-    "timeYear": 3087,
+    "time": 3088,
+    "timeDay": 2846,
+    "timeWeek": 3088,
+    "timeMonth": 3088,
+    "timeYear": 3088,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "98.77%",
     "uptimeMonth": "98.77%",
     "uptimeYear": "98.77%",
-    "time": 949,
-    "timeDay": 898,
-    "timeWeek": 949,
-    "timeMonth": 949,
-    "timeYear": 949,
+    "time": 947,
+    "timeDay": 892,
+    "timeWeek": 947,
+    "timeMonth": 947,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -69,7 +69,7 @@
     "uptimeMonth": "98.77%",
     "uptimeYear": "98.77%",
     "time": 1996,
-    "timeDay": 1727,
+    "timeDay": 1722,
     "timeWeek": 1996,
     "timeMonth": 1996,
     "timeYear": 1996,
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-04": 577,
+      "2025-05-04": 586,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 853
@@ -106,18 +106,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/desinri.com.ico",
     "slug": "desinri",
     "status": "down",
-    "uptime": "0.21%",
+    "uptime": "0.20%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
     "time": 1582,
     "timeDay": 0,
     "timeWeek": 1582,
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-04": 577,
+      "2025-05-04": 586,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 844
