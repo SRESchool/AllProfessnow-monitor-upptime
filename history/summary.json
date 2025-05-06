@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/professnow.com.ico",
     "slug": "professnow",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.82%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 1844,
-    "timeDay": 1843,
+    "timeDay": 1841,
     "timeWeek": 1844,
     "timeMonth": 1844,
     "timeYear": 1844,
     "dailyMinutesDown": {
-      "2025-05-06": 2
+      "2025-05-06": 13
     }
   },
   {
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ireviewed.in.ico",
     "slug": "ireviewed",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
-    "time": 2990,
-    "timeDay": 2875,
-    "timeWeek": 2990,
-    "timeMonth": 2990,
-    "timeYear": 2990,
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 2988,
+    "timeDay": 2866,
+    "timeWeek": 2988,
+    "timeMonth": 2988,
+    "timeYear": 2988,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakilsahab.in.ico",
     "slug": "wakilsahab",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
-    "time": 915,
-    "timeDay": 884,
-    "timeWeek": 915,
-    "timeMonth": 915,
-    "timeYear": 915,
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 914,
+    "timeDay": 883,
+    "timeWeek": 914,
+    "timeMonth": 914,
+    "timeYear": 914,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.27%",
-    "time": 1892,
-    "timeDay": 1804,
-    "timeWeek": 1892,
-    "timeMonth": 1892,
-    "timeYear": 1892,
+    "time": 1891,
+    "timeDay": 1805,
+    "timeWeek": 1891,
+    "timeMonth": 1891,
+    "timeYear": 1891,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -96,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-06": 690,
+      "2025-05-06": 701,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
@@ -121,7 +121,7 @@
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-06": 690,
+      "2025-05-06": 701,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
