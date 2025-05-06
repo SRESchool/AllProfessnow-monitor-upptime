@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1844,
-    "timeDay": 1844,
-    "timeWeek": 1844,
-    "timeMonth": 1844,
-    "timeYear": 1844,
+    "time": 1845,
+    "timeDay": 1846,
+    "timeWeek": 1845,
+    "timeMonth": 1845,
+    "timeYear": 1845,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.27%",
-    "time": 2993,
-    "timeDay": 2883,
-    "timeWeek": 2993,
-    "timeMonth": 2993,
-    "timeYear": 2993,
+    "time": 2992,
+    "timeDay": 2878,
+    "timeWeek": 2992,
+    "timeMonth": 2992,
+    "timeYear": 2992,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.27%",
-    "time": 915,
-    "timeDay": 918,
-    "timeWeek": 915,
-    "timeMonth": 915,
-    "timeYear": 915,
+    "time": 914,
+    "timeDay": 884,
+    "timeWeek": 914,
+    "timeMonth": 914,
+    "timeYear": 914,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/astropilot.co.ico",
     "slug": "astropilot",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "99.26%",
-    "time": 1893,
-    "timeDay": 1805,
-    "timeWeek": 1893,
-    "timeMonth": 1893,
-    "timeYear": 1893,
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 1892,
+    "timeDay": 1799,
+    "timeWeek": 1892,
+    "timeMonth": 1892,
+    "timeYear": 1892,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-06": 599,
+      "2025-05-06": 629,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
@@ -119,7 +119,7 @@
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-06": 599,
+      "2025-05-06": 629,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
