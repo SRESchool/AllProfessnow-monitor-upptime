@@ -32,7 +32,7 @@
     "uptimeYear": "99.01%",
     "time": 2933,
     "timeDay": 2535,
-    "timeWeek": 2922,
+    "timeWeek": 2921,
     "timeMonth": 2933,
     "timeYear": 2933,
     "dailyMinutesDown": {
@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakilsahab.in.ico",
     "slug": "wakilsahab",
     "status": "down",
-    "uptime": "98.47%",
-    "uptimeDay": "92.76%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "98.47%",
-    "uptimeYear": "98.47%",
+    "uptime": "98.30%",
+    "uptimeDay": "91.59%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "98.30%",
     "time": 910,
     "timeDay": 824,
     "timeWeek": 908,
     "timeMonth": 910,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2025-05-08": 104,
+      "2025-05-08": 121,
       "2025-05-02": 53
     }
   },
@@ -74,7 +74,7 @@
     "uptimeYear": "99.48%",
     "time": 1864,
     "timeDay": 1805,
-    "timeWeek": 1859,
+    "timeWeek": 1857,
     "timeMonth": 1864,
     "timeYear": 1864,
     "dailyMinutesDown": {
@@ -98,7 +98,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-08": 755,
+      "2025-05-08": 772,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -125,7 +125,7 @@
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-08": 755,
+      "2025-05-08": 772,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
