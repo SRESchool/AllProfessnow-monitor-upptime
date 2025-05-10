@@ -10,11 +10,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 1846,
-    "timeDay": 1861,
+    "time": 1847,
+    "timeDay": 1863,
     "timeWeek": 1845,
-    "timeMonth": 1846,
-    "timeYear": 1846,
+    "timeMonth": 1847,
+    "timeYear": 1847,
     "dailyMinutesDown": {
       "2025-05-06": 22
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.23%",
     "time": 2993,
-    "timeDay": 3383,
-    "timeWeek": 2925,
+    "timeDay": 3381,
+    "timeWeek": 2926,
     "timeMonth": 2993,
     "timeYear": 2993,
     "dailyMinutesDown": {
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakilsahab.in.ico",
     "slug": "wakilsahab",
     "status": "up",
-    "uptime": "98.65%",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
-    "time": 945,
-    "timeDay": 1086,
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
+    "time": 946,
+    "timeDay": 1085,
     "timeWeek": 937,
-    "timeMonth": 945,
-    "timeYear": 945,
+    "timeMonth": 946,
+    "timeYear": 946,
     "dailyMinutesDown": {
       "2025-05-08": 123,
       "2025-05-02": 53
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.59%",
-    "time": 2014,
-    "timeDay": 2709,
-    "timeWeek": 1981,
-    "timeMonth": 2014,
-    "timeYear": 2014,
+    "time": 2015,
+    "timeDay": 2715,
+    "timeWeek": 1984,
+    "timeMonth": 2015,
+    "timeYear": 2015,
     "dailyMinutesDown": {
       "2025-05-02": 53
     }
@@ -98,7 +98,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-10": 709,
+      "2025-05-10": 719,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
@@ -127,7 +127,7 @@
     "timeMonth": 1582,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2025-05-10": 709,
+      "2025-05-10": 719,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
